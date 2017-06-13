@@ -1,0 +1,22 @@
+{
+  "name": "jquery-luckyDraw",
+  "description": "A jQuery plugin for lucky draw",
+  "main": "index.js",
+  "authors": [
+    "Liujx"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "jquery-plugin",
+    "javascript"
+  ],
+  "homepage": "https://github.com/JinxiuLiu/jquery-luckyDraw.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
