@@ -1,7 +1,7 @@
 {
   "name": "jquery-luckyDraw",
   "description": "A jQuery plugin for lucky draw",
-  "main": "index.js",
+  "main": "/src/jquery.luckyDraw.js",
   "authors": [
     "Liujx"
   ],

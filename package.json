@@ -2,7 +2,7 @@
   "name": "jquery-luckyDraw",
   "version": "1.0.0",
   "description": "A jQuery plugin for lucky draw",
-  "main": "index.js",
+  "main": "/src/jquery.luckyDraw.js",
   "directories": {
     "example": "example"
   },
@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/JinxiuLiu/jquery-luckyDraw.js/issues"
   },
-  "homepage": "https://github.com/JinxiuLiu/jquery-luckyDraw.js#readme"
+  "homepage": "https://github.com/JinxiuLiu/jquery-luckyDraw.js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
 }
