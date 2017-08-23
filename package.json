@@ -1,6 +1,6 @@
 {
   "name": "jquery-luckyDraw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A jQuery plugin for lucky draw",
   "main": "/src/jquery.luckyDraw.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JinxiuLiu/jquery-luckyDraw.js.git"
+    "url": "git+https://github.com/JinxiuLiu/jQuery.LuckyDraw.js.git"
   },
   "keywords": [
     "jquery",
@@ -21,9 +21,9 @@
   "author": "Liujx",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JinxiuLiu/jquery-luckyDraw.js/issues"
+    "url": "https://github.com/JinxiuLiu/jQuery.LuckyDraw.js/issues"
   },
-  "homepage": "https://github.com/JinxiuLiu/jquery-luckyDraw.js#readme",
+  "homepage": "https://github.com/JinxiuLiu/jQuery.LuckyDraw.js#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",

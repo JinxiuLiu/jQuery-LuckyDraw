@@ -11,7 +11,7 @@
     "jquery-plugin",
     "javascript"
   ],
-  "homepage": "https://github.com/JinxiuLiu/jquery-luckyDraw.js",
+  "homepage": "https://github.com/JinxiuLiu/jQuery.LuckyDraw.js",
   "ignore": [
     "**/.*",
     "node_modules",

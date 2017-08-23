@@ -1,2 +1,2 @@
 # jquery-luckyDraw.js
-A jQuery plugin for lucky draw
+用于九宫格抽奖的jQuery plugin，
